@@ -1,0 +1,5 @@
+# filename, RA(h:m:s), DEC(±d:m:s), lspr_outfile
+20220217191741-313-RA.wcs.proc.fits,17:00:30.91,+03:33:01.81,C:\Users\shory\Desktop\astro\comet_67P_analysis\data\20220217191741-313-RA.wcs.proc.fits.lspr.out.txt
+20220220190400-656-RA.wcs.proc.fits,17:27:13.41,+12:23:17.55,C:\Users\shory\Desktop\astro\comet_67P_analysis\data\20220220190400-656-RA.wcs.proc.fits.lspr.out.txt
+20220221190037-229-RA.wcs.proc.fits,16:59:48.83,+03:36:21.28,C:\Users\shory\Desktop\astro\comet_67P_analysis\data\20220221190037-229-RA.wcs.proc.fits.lspr.out.txt
+20220225192324-727-RA.wcs.proc.fits,17:25:56.01,+12:34:46.23,C:\Users\shory\Desktop\astro\comet_67P_analysis\data\20220225192324-727-RA.wcs.proc.fits.lspr.out.txt

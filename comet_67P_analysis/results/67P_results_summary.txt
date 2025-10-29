@@ -1,0 +1,10 @@
+Representative result from combo: (0, 1, 2)
+Semi-major axis (a): 1.469059 AU
+Eccentricity (e): 0.320922
+Longitude of node (Ω): 151.7332 deg
+Inclination (i): 3.4223 deg
+Argument of perihelion (ω): 182.8761 deg
+Mean anomaly (M): 358.6828 deg
+
+Position vector (AU): [0.880289, -0.431103, -0.187080]
+Velocity vector (AU/day): [0.529152, 0.962455, 0.342385]
