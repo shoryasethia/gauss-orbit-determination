@@ -1,0 +1,7 @@
+# Jackknife uncertainties computed from Gauss 3-observation combinations
+a_AU: mean=1.545251, jackknife_std_error=0.266753
+e: mean=0.305214, jackknife_std_error=0.095851
+Omega_deg: mean=152.477650, jackknife_std_error=1.677305
+i_deg: mean=3.556475, jackknife_std_error=0.643263
+w_deg: mean=182.936875, jackknife_std_error=0.537411
+M_deg: mean=358.666100, jackknife_std_error=0.346680
